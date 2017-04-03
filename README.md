@@ -9,7 +9,7 @@ finished, and without ever being properly packaged for distribution.
 
 Source files probably need cleaning too, maybe replacing tabs with spaces.
 
-I wrote this whidth tab = 8 spaces in mind...
+I wrote this with tab = 8 spaces in mind...
 
 More about this on [my blog](https://levdev.wordpress.com/).
 
