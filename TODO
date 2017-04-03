@@ -1,0 +1,9 @@
+Things left to do in "Terminal Bomber"
+
+- Add options dialog
+	Possible options:
+	Allow opening of flagged squeres (dangeres but svaes time)
+	"Cheat mode" - uncovering bomb does not end the game but gets 1000 second penalty
+	"Black and white mode" - do not use colors (possibly add command line option for this)
+- Add beep sound for different events.
+- Add option to control sound
